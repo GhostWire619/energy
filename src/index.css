@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-size: 50%; /* Reduce image size to 50% */
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
